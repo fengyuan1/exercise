@@ -110,14 +110,14 @@ FEED_EXPORT_ENCODING='UTF8'
 
 # 连接数据MySQL
 # 数据库地址
-MYSQL_HOST = 'localhost'
+MYSQL_HOST = ''
 # 数据库用户名:
-MYSQL_USER = 'root'
+MYSQL_USER = ''
 # 数据库密码
-MYSQL_PASSWORD = 'root'
+MYSQL_PASSWORD = ''
 # 数据库端口
 MYSQL_PORT = 3306
 # 数据库名称
-MYSQL_DBNAME = 'mydb'
+MYSQL_DBNAME = ''
 # 数据库编码
-MYSQL_CHARSET = 'utf8'
+MYSQL_CHARSET = ''
